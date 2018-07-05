@@ -1,0 +1,40 @@
+.form-group{
+	width: 90%;
+	margin: auto;
+}
+legend{
+	width:  90%;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	color: #32c5d2;
+}
+form{
+	width: 30%;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid white;
+    background-color: white;
+    height: 340px;
+    border-radius: 5px;
+}
+h2{
+	text-align: center;
+	color: red;
+
+}
+h3{
+	text-align: center;
+}
+#error_mail,#error_pass{
+	color: red;
+}
+body{
+	background-image: url(../IMG/img.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#register{
+	margin-left: 15px;
+}

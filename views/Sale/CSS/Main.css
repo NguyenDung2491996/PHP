@@ -1,0 +1,24 @@
+th{
+	text-align: center;
+}
+td{
+	text-align: center;
+}
+.money{
+	text-align: right;
+}
+#fail ,#success{
+	width: 90%;
+	margin: auto;
+	margin-bottom: 20px;
+}
+.home {
+	position: absolute;
+	right: 20px;
+	top: 5px;
+}
+.cart{
+	position: absolute;
+	right: 20px;
+	top: 5px;
+}
